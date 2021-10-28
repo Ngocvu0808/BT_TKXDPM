@@ -1,0 +1,8 @@
+Thanh - Xem thông tin tài khoản khách hàng - UC001
+Duy - Xem thông tin xe đang sử dụng - UC002
+Tuân - Xem thông tin xe trong bãi - UC003
+Vũ - Trả xe - UC004
+Đạt - Thuê xe - UC005
+Vững - Xem thông tin bãi xe - UC006
+
+Công việc: Vẽ biểu đồ hoạt động và đặc tả chi tiết uc theo mẫu của thầy
